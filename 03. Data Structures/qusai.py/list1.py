@@ -33,14 +33,61 @@
 
 #44444444444444444444444444444444444444444444444444444
 
-list1 =[x for x in range (0,12594)]
-print (list1)
+# list1 =[x for x in range (0,5)]
+# print (list1)
 
-list2 = [0.5*x for x in list1]
-print(list2)
+# list2 = [0.5*x for x in list1]
+# print(list2)
 
-list3 = [x for x in list2 if x <1.5]
-print(list3)
+# list3 = [x for x in list2 if x <1.5]
+# print(list3)
+
+#5555555555555555555555555555555555555555555555555555
+
+# list1 =["pink","red","blue" ]
+# list2 =["green","red and" ,"blue","green"]
+# print(list1 == list2) 
+# print(list1!= list2)
+# print(list1>= list2)
+# print(list1> list2)
+# print(list1< list2)
+# print(list1<= list2)
+
+#66666666666666666666666666666666666666666666666666
+
+items ="Welcome to the SCME".split()
+print(items)
+items ="34#13#78#45".split("#")
+print(items)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
