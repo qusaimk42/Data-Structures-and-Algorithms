@@ -55,20 +55,42 @@
 
 #66666666666666666666666666666666666666666666666666
 
-items ="Welcome to the SCME".split()
-print(items)
-items ="34#13#78#45".split("#")
-print(items)
+# items ="Welcome to the SCME".split()
+# print(items)
+# items ="34#13#78#45".split("#")
+# print(items)
+
+#================ new day ============================================ new day ====================================================== new day ================================
+#                                      2024\11\10                                                   2024\11\10                                                               =
+#================ new day ============================================ new day ====================================================== new day ================================
+
+# def reverse(list):
+#     result = []
+#     for element in list :
+#         result.insert(0,element)
+#     return result
 
 
+# list1 =[1,2,3,4,5,6]
+# list2 =reverse(list1)
+# print (list2)
+#====================================================
 
+# list3 =[10,20,30,40,50,60]
+# list3.reverse()
+# print (list3)
 
+#22222222222222222222222222222222222222222222222222222
 
+#def  linearshearch(lst,key):
+#     for i in range(0,len(lst)):
+#         if key == list[i]:
+#             return i
+#     return -1
+# list =[2,3,4,5]
+# print(linearshearch(list,5))
 
-
-
-
-
+#3333333333333333333333333333333333333333333333333333
 
 
 
